@@ -1,0 +1,21 @@
+{
+  "users": {
+    "karyn": {
+      "id": "karyn",
+      "name": "Karyn",
+      "avatar": "👩",
+      "reading_progress": {}
+    },
+    "juan": {
+      "id": "juan",
+      "name": "Juan",
+      "avatar": "👨",
+      "reading_progress": {
+        "shiki-vol1-translation": {
+          "current_page": 0,
+          "last_read": "2025-12-23T02:47:17.159Z"
+        }
+      }
+    }
+  }
+}
